@@ -1,6 +1,6 @@
 # jalasoftchallenge
 
-1.Instrucciones para ejecutar el proyecto:
+1.INSTRUCCIONES PARA EJECUTAR EL PROYECTO:
 
 Descargar el zip del repositorio Jalasoft challenge
 Descomprimir y abrir carpeta en VS Code.

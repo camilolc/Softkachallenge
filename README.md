@@ -1,4 +1,4 @@
-# jalasoftchallenge
+# Jalasoftchallenge
 
 1.INSTRUCCIONES PARA EJECUTAR EL PROYECTO:
 

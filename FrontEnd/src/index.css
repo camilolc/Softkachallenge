@@ -1,0 +1,134 @@
+body{
+  background: linear-gradient(90deg, #926534, #ce5b0e);
+}
+
+.menu{
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 15%;  
+
+border: 6px solid white;
+
+}
+
+.title{
+  color: white;
+}
+
+.title span.p{
+
+  font-size: 50px;
+  background: linear-gradient(to right, #b3974b 0%, #c0baba 100%);
+  -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.title span.f{
+  
+    font-size: 50px;
+    background: linear-gradient(to right, #f05d4a 0%, #e9e2e2 100%);
+  -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+.button{
+  font-size: 30px;
+}
+
+.questions{
+  font-size: 30px;
+  text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin-top: 15%;  
+
+border: 6px solid white;
+}
+.questions .buttons{
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: ;
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: linear-gradient(90deg, #926534, #ce5b0e);
+}
+.questions .buttons .space{
+
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.prize{
+  
+  font-size: 45px;
+}
+
+.answer{
+  font-size: 45px;
+  text-decoration: underline;
+}
+
+.scorePoint{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.finish{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.finish .css-jh47zj-MuiButtonBase-root-MuiButton-root{
+  background-color: #b3974b
+}
+
+.lose{
+  text-align: center;
+  color: #FF6E26;
+  margin-bottom: 60px;
+  font-size: 60px;
+
+}
+
+.config{
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 3%;  
+  
+}
+
+.name{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+font-size: 40px;
+color: white;
+}
+
+.score{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px; 
+  margin-bottom: 30px;
+}
+
+.alert{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0%;  
+  align-items: center;
+  border: 6px solid white;
+  font-size: 20px;
+  
+  }

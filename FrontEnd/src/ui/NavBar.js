@@ -8,7 +8,7 @@ export const NavBar = () => {
     <>
       <div className="menu animate__animated animate__fadeIn">
         <h1 className="title">
-          <span className="p">Jala</span> <span className="f">Soft</span> Game
+          <span className="p">Soft</span> <span className="f">Ka</span> Game
           Challenge
         </h1>
         <Button variant="primary">

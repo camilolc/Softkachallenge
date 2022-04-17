@@ -1,8 +1,8 @@
-# Jalasoftchallenge
+# Softkachallenge
 
 1.INSTRUCCIONES PARA EJECUTAR EL PROYECTO:
 
-Descargar el zip del repositorio Jalasoft challenge
+Descargar el zip del repositorio Sofka challenge
 Descomprimir y abrir carpeta en VS Code.
 Ejecutar el comando yarn para reconstruir los modulos de node
 Ejecutar el comando node app para correr el servidor en el puerto 8080
